@@ -20,4 +20,22 @@ And still need to change some settings before to using the macro
 ![Quarto](https://cdn.discordapp.com/attachments/341613211478392833/960984777303937064/unknown.png)
 
 4. In the Deck Builder, show up all card must be active.
+
+![Quinto](https://cdn.discordapp.com/attachments/341613211478392833/960986980840271942/unknown.png)
+
 5. Go to Deck Builder
+
+
+## After the requirements have been completed
+
+You can get a deck link at the https://www.masterduelmeta.com/top-decks
+
+Return to Macro and insert link
+
+![insert link](https://cdn.discordapp.com/attachments/341613211478392833/960997773094825994/unknown.png)
+
+After that you have 5 seconds to return to the game screen
+
+![Return](https://cdn.discordapp.com/attachments/341613211478392833/960998993897357403/unknown.png)
+
+and just wait for the macro to start and finish
