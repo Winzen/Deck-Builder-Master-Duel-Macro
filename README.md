@@ -3,6 +3,8 @@
 
 
 I'm releasing this version because maybe it can be useful to someone
+## Download
+**![Download to Executable](https://drive.google.com/file/d/15mT7AZqK64LGQj7UnVZb-aaCr1JU7SYE/view?usp=sharing)**
 
 **But this version is not perfection**
 
@@ -10,7 +12,7 @@ Sometimes because of how the searchs works in mastel duel some cards may be wron
 
 And still need to change some settings before to using the macro
 
-**Requirements:**
+## **Requirements:**
 
 ![Primeiros Requesitos](https://cdn.discordapp.com/attachments/341613211478392833/960983744204902460/unknown.png)
 1. The game's language must be English.
@@ -26,7 +28,7 @@ And still need to change some settings before to using the macro
 5. Go to Deck Builder
 
 
-## After the requirements have been completed
+### After the requirements have been completed
 
 You can get a deck link at the https://www.masterduelmeta.com/top-decks
 
