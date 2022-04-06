@@ -3,14 +3,15 @@
 
 
 I'm releasing this version because maybe it can be useful to someone
-## Download
-**![Download to Executable](https://drive.google.com/file/d/15mT7AZqK64LGQj7UnVZb-aaCr1JU7SYE/view?usp=sharing)**
+## Download to Executable
+
+**https://drive.google.com/file/d/15mT7AZqK64LGQj7UnVZb-aaCr1JU7SYE/view**
 
 **But this version is not perfection**
 
 Sometimes because of how the searchs works in mastel duel some cards may be wrong in your deck after the macro ends
 
-And still need to change some settings before to using the macro
+And you still need to change some settings before to using the macro
 
 ## **Requirements:**
 
