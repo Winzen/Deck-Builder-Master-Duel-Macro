@@ -12,6 +12,8 @@ I'm releasing this version because maybe it can be useful to someone
 - Executable size is too big 
 - Sometimes because of how the searchs works in mastel duel some cards may be wrong in your deck after the macro ends
 - And you still need to change some settings before to using the macro
+- It's just the first version
+- I can do it better and i accept help
 
 ## Video: How to use the Macro
 
