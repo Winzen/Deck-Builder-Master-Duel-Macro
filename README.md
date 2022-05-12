@@ -42,7 +42,7 @@ print.png is a print that the macro used to read the name of cards
 
 # Download to Executable
 
-**https://drive.google.com/file/d/15mT7AZqK64LGQj7UnVZb-aaCr1JU7SYE/view**
+**https://drive.google.com/file/d/1dtpqkEv_NcCwVSj5gJOXfjNZi7Ajj1pu/view?usp=sharing**
 
 
 # Youtube How to use the Macro
