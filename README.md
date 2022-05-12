@@ -3,35 +3,70 @@
 
 
 I'm releasing this version because maybe it can be useful to someone
-## Download to Executable
+
+
+# Index
+
+- [Attention](#attention)
+- [This version is not perfection](#this-version-is-not-perfection)
+- [Download to Executable](#download-to-executable)
+- [Youtube: How to use the Macro](#youtube-how-to-use-the-macro)
+- [Menus](#menu)
+- [Stopping The Macro](#stopping-the-macro)
+- [Requirements](#requirements)
+- [After the requirements have been completed](#after-the-requirements-have-been-completed) 
+  - [Config](#config)
+  - [Macro Deck](#macro-deck)
+  - [From Link](#from-link)
+  - [From Texts](#from-texts)
+    - [Examples Of Text Format](#examples-of-text-format)
+- [Restart Config](#restart-config)
+- [Ending](#ending)
+
+ 
+
+# Attention
+Some buttons can trigger your anti-virus at the first click them
+it's because the macro modify two files in the folder config_print
+config.txt saves some useful settings
+print.png is a print that the macro used to read the name of cards
+
+
+# This version is not perfection
+
+- Executable size is too big 
+- And you still need to change some settings before to using the macro
+- ugly interface
+- I can do it better and i accept help
+
+
+# Download to Executable
 
 **https://drive.google.com/file/d/15mT7AZqK64LGQj7UnVZb-aaCr1JU7SYE/view**
 
-## **This version is not perfection**
 
-- Executable size is too big 
-- Sometimes because of how the searchs works in mastel duel some cards may be wrong in your deck after the macro ends
-- And you still need to change some settings before to using the macro
-- It's just the first version
-- I can do it better and i accept help
+# Youtube How to use the Macro
 
-## Video: How to use the Macro
+**Playlist: https://www.youtube.com/playlist?list=PLX18qf4z-4-FySlHbosVuf-T_qsqDIOxd**
 
-**Link: https://youtu.be/WcLmCGmUJv0**
-### Menu
- ![Menus](https://cdn.discordapp.com/attachments/341613211478392833/961088092385705994/unknown.png)
+**From Link: https://www.youtube.com/watch?v=017VpAc7IsU**
 
-Number 1 to get the list of deck cards
+**From Texts: https://www.youtube.com/watch?v=A9Ue5i3Pc0E**
 
-Number 2 is the Macro
 
-## **Stopping The Macro**
+# Menu
+
+ ![Menus](https://cdn.discordapp.com/attachments/465998423145971713/974239935102083102/unknown.png)
+
+
+# Stopping The Macro
 
 ![ESC](https://www.wambooli.com/blog/wp-content/uploads/2016/10/Escape-key.jpg)
 
 **To stop the macro just HOLD the "Esc" button on your keyboard until your mouse stops.**
 
-## **Requirements:**
+
+# Requirements
 
 ![Primeiros Requesitos](https://cdn.discordapp.com/attachments/341613211478392833/960983744204902460/unknown.png)
 1. The game's language must be English.
@@ -47,21 +82,62 @@ Number 2 is the Macro
 5. Go to Deck Builder
 
 
-### After the requirements have been completed
+# After the requirements have been completed
 
-You can get a deck link at the https://www.masterduelmeta.com/top-decks
 
-Return to Macro and insert link
+## Config
+![Config IMG](https://cdn.discordapp.com/attachments/465998423145971713/974231680091050005/unknown.png)
 
-![insert link](https://cdn.discordapp.com/attachments/341613211478392833/960997773094825994/unknown.png)
+With the requirements completed, you are ready to create your configuration file
+
+After click at "Start Config" you have 5 seconds to return to the game screen
+
+## Macro Deck
+
+![Macro Deck](https://cdn.discordapp.com/attachments/465998423145971713/974232976294567956/unknown.png)
+
+Now you have a configuration file.
+
+You can choose between "From Link" and "From Texts" buttons to pass a deck to the macro
+
+### From Link
+
+![From Link](https://cdn.discordapp.com/attachments/465998423145971713/974235680488165406/unknown.png)
+
+Just enter a valid link from https://www.masterduelmeta.com/
+
+**Tier List decks and Saved decks are valid**
 
 After that you have 5 seconds to return to the game screen
 
-![Return](https://cdn.discordapp.com/attachments/341613211478392833/960998993897357403/unknown.png)
+and just wait for the macro to start and finish
+
+### From Texts
+
+![From Texts](https://cdn.discordapp.com/attachments/465998423145971713/974236542396674129/unknown.png)
+
+Insert a deck Texts in a format valid and click at "Start Macro"
+
+After that you have 5 seconds to return to the game screen
 
 and just wait for the macro to start and finish
 
-### Ending
+
+#### Examples Of Text Format
+
+![Examples Of Text Format](https://cdn.discordapp.com/attachments/465998423145971713/974098023246344303/unknown.png)
+
+
+# Restart Config
+
+![Restart Config](https://cdn.discordapp.com/attachments/465998423145971713/974240277894160404/unknown.png)
+
+if your macro is missing a lot of cards or miss click on cards
+
+Do again the requirements and Restart your configuration file
+
+
+# Ending
 
 My english is not good so i accept tips and corrections.
 
