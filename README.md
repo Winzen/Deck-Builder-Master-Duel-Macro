@@ -21,7 +21,7 @@ I'm releasing this version because maybe it can be useful to someone
   - [From Texts](#from-texts)
     - [Examples Of Text Format](#examples-of-text-format)
 - [Restart Config](#restart-config)
-- [Tesseract OCR] (#tesseract-ocr)
+- [Tesseract OCR](#tesseract-ocr)
 - [Ending](#ending)
 
  
