@@ -21,6 +21,7 @@ I'm releasing this version because maybe it can be useful to someone
   - [From Texts](#from-texts)
     - [Examples Of Text Format](#examples-of-text-format)
 - [Restart Config](#restart-config)
+- [Tesseract OCR] (#tesseract-ocr)
 - [Ending](#ending)
 
  
@@ -136,6 +137,11 @@ if your macro is missing a lot of cards or miss click on cards
 
 Do again the requirements and Restart your configuration file
 
+# Tesseract OCR
+
+This Macro uses 'Tesseract-OCR' to get cards names
+
+https://github.com/tesseract-ocr/tesseract#installing-tesseract
 
 # Ending
 
