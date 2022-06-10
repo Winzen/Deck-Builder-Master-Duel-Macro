@@ -46,7 +46,13 @@ print.png is a print that the macro used to read the name of cards
 **https://drive.google.com/file/d/1dtpqkEv_NcCwVSj5gJOXfjNZi7Ajj1pu/view?usp=sharing**
 
 
-# Youtube How to use the Macro
+# Youtube/How to use the Macro
+
+## Behind The Cafe Channel
+[![thecafe](https://yt3.ggpht.com/e4C6XrwgahjDCxy1VD_b_KXkOn59rb_UBMpZF_8Z_C8rkpnAWnG_c0u1WV2ZkesHsKAhPq5-yg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCCDoNRHYfWKxelHxmzBSYgQ)
+ 
+ ## Links
+ **Behind The Cafe Tutorial: https://www.youtube.com/watch?v=Y6Zdb-RTJ3s&t=1s**
 
 **Playlist: https://www.youtube.com/playlist?list=PLX18qf4z-4-FySlHbosVuf-T_qsqDIOxd**
 
@@ -57,9 +63,8 @@ print.png is a print that the macro used to read the name of cards
 
 # Menu
 
- ![Menus](https://cdn.discordapp.com/attachments/465998423145971713/974239935102083102/unknown.png)
-
-
+ ![Menus](https://cdn.discordapp.com/attachments/465998423145971713/974239935102083102/unknown.png)       
+ 
 # Stopping The Macro
 
 ![ESC](https://www.wambooli.com/blog/wp-content/uploads/2016/10/Escape-key.jpg)
